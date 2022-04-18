@@ -1,3 +1,3 @@
 # Adding a local repository to a remote repository
 
-## git remote addorigin sshlink
+## git remote add origin sshlink
